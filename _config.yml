@@ -1,0 +1,12 @@
+title: 阿威人力派遣
+email: info@ahwoo168.win
+description: 
+  "叫工專線：0982-180-081"
+baseurl: ""
+url: "https://tw.ahwoo168.win"
+
+markdown: kramdown
+theme: jekyll-theme-so-simple
+
+navigation:
+  - file: navigation.yml
